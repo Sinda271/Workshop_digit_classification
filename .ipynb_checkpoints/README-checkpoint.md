@@ -6,27 +6,29 @@ Follow these instructions:
 1. Register with the Intel Devcloud at
    https://devcloud.intel.com/oneapi/get_started/
 
-2. Click on Get Free Access
+2. Click on "Get Free Access" and register  
 
-3. Scroll down to the page bottom and click "Launch Jupyterlab" 
+3. Check your email to activate your account (check your junk mail if necessary) then refrech page and sign in
+
+4. Scroll down to the page bottom and click "Launch Jupyterlab" 
 <img src="images/jupyterlab.png" width="800" /> 
 
-4. Now you will have a similar view: 
+5. Now you will have a similar view: 
 <img src="images/devcloud.png" width="800" /> 
 
-5. Open a terminal and clone the repository by running this command: git clone https://github.com/Sinda271/Workshop_digit_classification.git
+6. Open a terminal in your jupyterlab and clone the repository by running this command: ***git clone https://github.com/Sinda271/Workshop_digit_classification.git***
 
-6. Navigate to the working directory Workshop_digit_classification in the side bar
+7. Navigate to the working directory ***Workshop_digit_classification*** in the side bar
 
-7. Open DigitClassification_no_onedal.ipynb
+8. Open ***DigitClassification_no_onedal.ipynb***
 
-8. Select the kernel:
+9. Select the kernel:
 <img src="images/kernel.png" width="800" /> 
 <img src="images/kernel1.png" width="800" /> 
 
-9. Execute cells
+10. Execute cells
 
-10. Repeat the steps 8 and 9 for DigitClassification_onedal.ipynb
+11. Repeat the steps 8 and 9 for ***DigitClassification_onedal.ipynb***
 
 
 
